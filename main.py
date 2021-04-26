@@ -8,7 +8,6 @@ from pyautogui import moveTo
 from classes import *
 
 FPS = 25
-var = 10
 
 c_width, c_height = 963, 600
 
