@@ -11,8 +11,6 @@ FPS = 25
 
 c_width, c_height = 963, 600
 
-a_random_var = 3.14
-
 brickGap = 2
 brickCol = 12
 brickRow = 18
